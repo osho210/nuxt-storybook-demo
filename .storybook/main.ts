@@ -11,6 +11,7 @@ const config: StorybookConfig = {
     "@storybook/experimental-addon-test"
   ],
   "framework": {
+    // プラグイン
     "name": "@storybook-vue/nuxt",
     "options": {}
   }
